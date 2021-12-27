@@ -9,7 +9,8 @@ We strongly recommend developers to use Android Studio to develop.The demo for A
 ## Library
     
     dependencies{
-      实现文件（'libs\\printerLibrary.jar'）//通过加载jar包的形式替换掉实现的库文件
+    //主要是兼容除了商米 之外的其他设备
+      实现文件（'libs\\printerLibrary.jar'）//通过加载jar包的形式替换掉实现的库文件  // implementation 'com.sunmi:printerlibrary:1.0.13'
     }
     
 Now we replaced AIDL integration with Sunmi Printer Interface Library.  
