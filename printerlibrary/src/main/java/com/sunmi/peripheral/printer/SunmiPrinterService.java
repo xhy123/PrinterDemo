@@ -1938,7 +1938,7 @@ public interface SunmiPrinterService extends android.os.IInterface {
                         -10, -10, -10, -10, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, -10, -10, Stub.TRANSACTION_STOP,
                         -6, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, -13, -13,
                         Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP, -15, -15, Stub.TRANSACTION_STOP, -16, Stub.TRANSACTION_STOP, Stub.TRANSACTION_STOP},
-               //imin 机型
+               //其他 机型
                 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                         0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                         0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
